@@ -6,6 +6,7 @@ if status=="yes":
     print("burger")
     print("toto")
     print("mo mo")
+    print("todo")
     #test
 else:
     print("thristry")
