@@ -4,6 +4,7 @@ if status=="yes":
     print("eat samosa")
     print("pizza")
     print("burger")
+    print("toto")
     #test
 else:
     print("thristry")
