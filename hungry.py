@@ -12,3 +12,4 @@ else:
     print("thristry")
     print("do your work")
     print("water")
+    print("Y")
